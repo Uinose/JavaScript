@@ -90,3 +90,16 @@ body{
     padding-top: 30px;
     text-align: center;
 }
+#puntaje{
+    background-color: black;
+    padding: 10px;
+    width: 100px;
+    height: 50px;
+    position: absolute;
+    top: 0px;
+    right: 0px;
+    font-size: 3rem;
+    padding-top: 20px;
+    color: white;
+    text-align: center;
+}
